@@ -48,5 +48,10 @@ I created this to help users to follow some technical articles I've written on:
    ```
 9.  Visit the url printed out on the terminal in your browser. Most likely it will be http://127.0.0.1:8000.
 
+10. Register New Users to the database then Log In with any of the users.
+
+11. Add the endoint /streaming to the base URL to become -> http://127.0.0.1:8000/streaming
+
+12. Start live video streaming by clicking the Start Stream button and then share the video livestream URL to other viewers to access your livestream  
 
 Continue your journey of building the NEXT BIG THING.
