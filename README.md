@@ -7,12 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About
-A starter kit of Laravel 8 with the Vuejs Authentication that was available in previous versions.
-I created this to help users to follow some technical articles I've written on:
-1. [Dev.to](https://dev.to/mupati)
-2. [Medium](https://mupati.medium.com)
-
 ## Setup
 1. Clone or  download the repository<br/>
    ```
@@ -52,6 +46,4 @@ I created this to help users to follow some technical articles I've written on:
 
 11. Add the endoint /streaming to the base URL to become -> http://127.0.0.1:8000/streaming
 
-12. Start live video streaming by clicking the Start Stream button and then share the video livestream URL to other viewers to access your livestream  
-
-Continue your journey of building the NEXT BIG THING.
+12. Start live video streaming by clicking the Start Stream button and then share the video livestream URL to other viewers to access your livestream
